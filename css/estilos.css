@@ -1,0 +1,110 @@
+h1{
+    font-style: italic;
+    text-align: center;
+    color: #3391ff;
+}
+.header, h2{
+    text-align: center;
+}
+
+h5{
+    color: white;
+}
+
+.carouselExampleCaptions, .carousel-item{
+    max-width: 100%;
+    height: auto;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    height: 100px;
+    width: 100px;
+    outline: white;
+    background-color: rgba(0, 0, 0,0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.carousel-control-prev{
+    filter: invert(100%);
+}
+
+.carousel-control-next{
+    filter: invert(100%);
+}
+
+hr{
+    background-color:  #3391ff;
+}
+
+.vendido, .card-title{
+    font-style: italic;
+    text-align: center;
+    color: #3391ff;
+}
+
+
+.footer-style {
+    padding-top: 50px;
+    background-color:whitesmoke;
+}
+footer {
+  color: #3391ff;
+  border: 0.5px  #3391ff solid;
+}
+footer h3 {
+  margin-bottom: 30px;
+    font-weight: 800;
+}
+footer .footer-above {
+  padding-top: 50px;
+  background-color: whitesmoke;
+}
+footer .footer-col {
+  margin-bottom: 50px;
+}
+footer .footer-below {
+  padding: 25px 0;
+  background-color: whitesmoke;
+}
+
+.vertical-menu {
+    width: auto;
+  }
+  
+  .vertical-menu a {
+    background-color: white;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #3391ff;
+    color: whitesmoke;
+  }
+  
+  .vertical-menu a.active {
+    background-color: white;
+    color: #3391ff;
+    border: 1px #3391ff solid;
+  }
+
+  #map{
+    width: auto;
+    height: 300px;
+    outline: 1px solid  #3391ff ;
+  }
+
+  #map iframe{
+    width: 100%;
+    height: 100%;
+  }
+
+  h3{
+    color: #3391ff;
+    text-align: center;
+    font-style: italic;
+  }
